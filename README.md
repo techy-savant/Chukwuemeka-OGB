@@ -1,10 +1,15 @@
-<h1 align="center">Hi , I'm Chukwuemeka  <b>[AKA Techy Savant]</b> <img src="https://imageupload.io/MI1ejzWstmmw2mX" width="35"></h1>
+<h1 align="center">Hi , I'm Chukwuemeka  <b>[AKA Techy Savant]</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <h3 align="center">A passionate Frontend Engineer </h3>
 
- <img align="center" alt="odizee coding" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"></img>
+ <img align="center" alt="odizee coding" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"></img>
 <br>
+<div style="margin: 0 auto; width: 200px; background-color: lightgray;">
+  This is a centered div.
+</div>
+
+
 
 
 
