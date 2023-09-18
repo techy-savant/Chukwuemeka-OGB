@@ -1,5 +1,5 @@
 
-[pic](https://imageupload.io/MI1ejzWstmmw2mX)
+[pic]("https://imageupload.io/MI1ejzWstmmw2mX")
 
 
 <h2> Hey there! I'm Chukwuemeka Ogbanu (A.K.A TechySavant)</h2>
