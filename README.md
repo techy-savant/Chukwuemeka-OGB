@@ -1,7 +1,7 @@
-<img src="https://previews.dropbox.com/p/thumb/ACDBw7ecyv2eUs4pN2sG9TE-7zV_8Up-BTY97267V6RC-2VqAXJOu8Sm5lWDCF-WRTQPtwAtKeNmELLJbyHc8XK-FhCq4l6cOokZxUJMb762BOd5jSy8SIpreioftrUmGMx2ERSJhaqITXd7Tri4ZJ6g49A9Lfa2q7Q_-Dk4-djc6yFVeXGknThqqoXuoec6fgSdS790KKJ63mvl0a9lUZAyRO7cl9b02_zT3f01IrcpkFF91ok58lVTwSoORHkG3kHXvcP_sOkqjrBtCyWpzlgxG0PH2t4KPHGrYAMoAxtEt3lT9yVw_yets6Kq9eF7f5TeLGdr7sVxY4jUJSEx_8ss/p.gif" alt="Alt text" title="Optional title">
 
 
-<h2> Hey there! I'm Chukwuemeka Ogbanu (A.K.A TechySavant)</h2>
+[pic
+](https://www.dropbox.com/scl/fi/vj6eik7z9hwyx88gpn9z8/readme-pic.gif?rlkey=ozbi1kfosfjqg83jf6qbpmft3&dl=0)<h2> Hey there! I'm Chukwuemeka Ogbanu (A.K.A TechySavant)</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
