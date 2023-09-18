@@ -1,6 +1,5 @@
 
-
-![pic](https://www.dropbox.com/scl/fi/vj6eik7z9hwyx88gpn9z8/readme-pic.gif?rlkey=ozbi1kfosfjqg83jf6qbpmft3&dl=0)
+![pic](https://imageupload.io/MI1ejzWstmmw2mX)
 
 
 <h2> Hey there! I'm Chukwuemeka Ogbanu (A.K.A TechySavant)</h2>
