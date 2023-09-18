@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Frontend Engineer </h3>
 
- <img align="center" alt="odizee coding" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"></img>
+ <img align="center" alt="odizee coding" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"></img>
 <br>
 <div style="margin: 0 auto; width: 200px; background-color: lightgray;">
   This is a centered div.
