@@ -1,4 +1,6 @@
-<img src="https://ibb.co/8bvZFf3">
+
+![Alt Text]("https://ibb.co/8bvZFf3")
+
 
 <h2> Hey there! I'm Chukwuemeka Ogbanu (A.K.A TechySavant)</h2>
 
