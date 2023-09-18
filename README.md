@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Chuwkwuemeka  <b>[AKA Techy Savant]</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Chukwuemeka  <b>[AKA Techy Savant]</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <h3 align="center">A passionate Frontend Engineer </h3>
