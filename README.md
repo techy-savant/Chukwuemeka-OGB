@@ -3,14 +3,8 @@
 
 <h3 align="center">A passionate Frontend Engineer </h3>
 
- <img align="center" alt="odizee coding" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"></img>
+ <img align="center" alt="odizee coding" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47fx081f7z2ogvx9eeafznk7n7hhckkb400175hb64&ep=v1_gifs_related&rid=giphy.gif&ct=g"></img>
 <br>
-<div style="margin: 0 auto; width: 200px; background-color: lightgray;">
-  This is a centered div.
-</div>
-
-
-
 
 
 ## :sassy_man:  About me
