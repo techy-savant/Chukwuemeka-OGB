@@ -41,12 +41,12 @@
 
 
 
-Credits: [Romeoscript](https://github.com/romeoscript)
+Credits: [Chukwuemeka](https://github.com/Chukwuemeka-OGB)
 
 Last Edited on: 10/02/2022chrome"></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ogbanufavour@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ogbanufavour@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Chukwuemeka-OGB](https://github.com/Chukwuemeka-OGB)
