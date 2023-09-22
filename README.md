@@ -12,7 +12,7 @@
 - 👨‍🎓 I am a `Computer Science Major`
 - :technologist: I love using Software as a solution for every `Problem`
 - 🔩: I am a problem solver
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
+- :thinking: I’m currently open for: `A Frontend Developer role`
 - :nerd_face: Always `learning new things`
 
 
