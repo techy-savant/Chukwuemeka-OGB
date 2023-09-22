@@ -11,8 +11,8 @@
 - :school: I am a `Frontend developer`
 - 👨‍🎓 I am a `Computer Science Major`
 - :technologist: I love using Software as a solution for every `Problem`
-- 🔩: I am a problem solver`
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`,
+- 🔩: I am a problem solver
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
 - :nerd_face: Always `learning new things`
 
 
